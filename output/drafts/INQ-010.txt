@@ -1,0 +1,10 @@
+To: lprice@example.com
+Assigned: Sales Rep Queue
+Priority: standard (35)
+
+Hi Lauren,
+
+Thanks for reaching out to Gulf Coast Property Services about maintenance. I see this is time-sensitive, so I've flagged it as a priority. Someone from our team will call you within two business hours to get this scheduled.
+
+Best,
+The Gulf Coast Property Services Team

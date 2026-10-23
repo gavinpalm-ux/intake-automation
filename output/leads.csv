@@ -1,0 +1,91 @@
+inquiry_id,channel,received_at,contact_name,company,email,phone,property_type,unit_count,services,urgency,summary,priority_score,priority_tier,assigned_to,needs_human_review,review_reasons,draft_reply,extracted_by
+INQ-001,email,2026-10-05T08:14:00,Dana Whitfield,Harbor Point Property Management,dana.whitfield@example.com,(941) 555-0182,multifamily,64,turnover_cleaning;maintenance,high,"Hi there, My name is Dana Whitfield and I'm with Harbor Point Property Management. We manage 64 units across three apartment complexes in P…",100,enterprise,Senior Account Manager,True,high_value_lead,"Hi Dana,
+
+Thanks for reaching out to Gulf Coast Property Services about turnover cleaning and maintenance across your 64 units. I see this is time-sensitive, so I've flagged it as a priority. Someone from our team will call you within two business hours to get this scheduled.
+
+Best,
+The Gulf Coast Property Services Team",rules
+INQ-014,web_form,2026-10-07T16:10:00,Alex Hughes,Meadow Creek Holdings,ahughes@example.com,(941) 555-0108,single_family,85,turnover_cleaning;maintenance;inspection,normal,I represent Meadow Creek Holdings. We own 85 single-family rental homes in Sarasota and Charlotte counties and are reviewing maintenance ve…,85,enterprise,Senior Account Manager,True,high_value_lead,"Hi Alex,
+
+Thanks for reaching out to Gulf Coast Property Services about turnover cleaning, maintenance and property inspections across your 85 units. One of our senior account managers will call you within one business day to set up a walkthrough and put together a portfolio proposal.
+
+Best,
+The Gulf Coast Property Services Team",rules
+INQ-005,web_form,2026-10-05T15:51:00,Jordan Lee,Coastal Ridge Investments,jlee@example.com,,multifamily,40,turnover_cleaning;maintenance;inspection,normal,"Hello, I work for Coastal Ridge Investments. We're acquiring a 40-unit apartment building in December and want a full inspection plus ongoi…",80,enterprise,Senior Account Manager,True,high_value_lead,"Hi Jordan,
+
+Thanks for reaching out to Gulf Coast Property Services about turnover cleaning, maintenance and property inspections across your 40 units. One of our senior account managers will call you within one business day to set up a walkthrough and put together a portfolio proposal.
+
+Best,
+The Gulf Coast Property Services Team",rules
+INQ-003,email,2026-10-05T11:02:00,Patricia Gomez,,board@example.org,(239) 555-0147,hoa,120,maintenance;landscaping,low,"Good morning, The Sunset Palms HOA board is accepting bids for landscaping and irrigation maintenance of our common areas for next year. Th…",70,enterprise,Senior Account Manager,True,high_value_lead,"Hi Patricia,
+
+Thanks for reaching out to Gulf Coast Property Services about maintenance and landscaping across your 120 units. One of our senior account managers will call you within one business day to set up a walkthrough and put together a portfolio proposal.
+
+Best,
+The Gulf Coast Property Services Team",rules
+INQ-012,email,2026-10-07T11:20:00,Nina Okafor,,facilities@example.com,(941) 555-0175,commercial,9,landscaping;pest_control,normal,"Hello, I handle facilities for Lakewood Plaza Partners, a retail plaza with 9 storefronts. We need landscaping and quarterly pest control f…",57,standard,Sales Rep Queue,False,,"Hi Nina,
+
+Thanks for reaching out to Gulf Coast Property Services about landscaping and pest control across your 9 units. A member of our team will reach out within one business day with pricing and available start dates.
+
+Best,
+The Gulf Coast Property Services Team",rules
+INQ-004,email,2026-10-05T13:25:00,Tariq,,tkhan@example.com,(941) 555-0133,multifamily,,pest_control,high,we have a roach problem in two of our duplex units and tenants are threatening to withhold rent. need pest control this week. call me 941.5…,45,standard,Sales Rep Queue,False,,"Hi Tariq,
+
+Thanks for reaching out to Gulf Coast Property Services about pest control. I see this is time-sensitive, so I've flagged it as a priority. Someone from our team will call you within two business hours to get this scheduled.
+
+Best,
+The Gulf Coast Property Services Team",rules
+INQ-007,email,2026-10-06T08:45:00,Sam Patel,Bayside Commercial Group,sam.patel@example.com,(941) 555-0119,commercial,,maintenance,normal,"Hi, This is Sam Patel from Bayside Commercial Group. We have a two-story office building in Venice and the AC unit on the second floor has…",42,standard,Sales Rep Queue,False,,"Hi Sam,
+
+Thanks for reaching out to Gulf Coast Property Services about maintenance. A member of our team will reach out within one business day with pricing and available start dates.
+
+Best,
+The Gulf Coast Property Services Team",rules
+INQ-009,email,2026-10-06T12:00:00,Greg Holloway,,ops@example.com,,single_family,18,inspection,normal,"Hello, We manage 18 condos for out-of-state owners and need someone to do move-in and move-out condition reports with photos. Is that somet…",40,standard,Sales Rep Queue,False,,"Hi Greg,
+
+Thanks for reaching out to Gulf Coast Property Services about property inspections across your 18 units. A member of our team will reach out within one business day with pricing and available start dates.
+
+Best,
+The Gulf Coast Property Services Team",rules
+INQ-011,web_form,2026-10-07T09:05:00,Chris Bennett,,chris.b@example.com,,multifamily,12,turnover_cleaning,low,"Just curious what you charge. I manage a 12 unit apartment complex, might want cleaning between tenants down the road.",40,standard,Sales Rep Queue,False,,"Hi Chris,
+
+Thanks for reaching out to Gulf Coast Property Services about turnover cleaning across your 12 units. A member of our team will reach out within one business day with pricing and available start dates.
+
+Best,
+The Gulf Coast Property Services Team",rules
+INQ-010,email,2026-10-06T14:33:00,Lauren,,lprice@example.com,(239) 555-0164,single_family,1,maintenance,high,"Hi, I'm Lauren. Water is leaking from the ceiling in my rental condo, tenant just called me. I'm out of town. Can someone go out today? 239…",35,standard,Sales Rep Queue,False,,"Hi Lauren,
+
+Thanks for reaching out to Gulf Coast Property Services about maintenance. I see this is time-sensitive, so I've flagged it as a priority. Someone from our team will call you within two business hours to get this scheduled.
+
+Best,
+The Gulf Coast Property Services Team",rules
+INQ-008,web_form,2026-10-06T10:12:00,Rosa Martinez,,rosa.m@example.com,,single_family,3,maintenance;landscaping,low,I have three rental homes and I'm getting tired of chasing handymen. Do you do maintenance and lawn care as a package? Budgeting for next y…,25,small,Inside Sales / Auto-reply,False,,"Hi Rosa,
+
+Thanks for reaching out to Gulf Coast Property Services about maintenance and landscaping across your 3 units. Reply with the property address and a good time to visit, and we'll send you a quote and get you on the schedule.
+
+Best,
+The Gulf Coast Property Services Team",rules
+INQ-013,email,2026-10-07T13:48:00,,,,,multifamily,,other,normal,Following up on my voicemail. Please call me back about the apartments.,25,small,Inside Sales / Auto-reply,True,no_contact_info;no_name;service_unclear,"Hi there,
+
+Thanks for reaching out to Gulf Coast Property Services about property services. Reply with the property address and a good time to visit, and we'll send you a quote and get you on the schedule.
+
+Best,
+The Gulf Coast Property Services Team",rules
+INQ-006,email,2026-10-06T07:30:00,,,,,unknown,,landscaping,normal,do u guys do lawns,15,small,Inside Sales / Auto-reply,True,no_contact_info;no_name;property_type_unclear,"Hi there,
+
+Thanks for reaching out to Gulf Coast Property Services about landscaping. Reply with the property address and a good time to visit, and we'll send you a quote and get you on the schedule.
+
+Best,
+The Gulf Coast Property Services Team",rules
+INQ-002,web_form,2026-10-05T09:40:00,Mike Russo,,mike.r@example.net,,single_family,1,turnover_cleaning,low,"I own a single family rental home in North Port. Tenant is moving out end of next month. Looking for a quote on move-out cleaning. No rush,…",10,small,Inside Sales / Auto-reply,False,,"Hi Mike,
+
+Thanks for reaching out to Gulf Coast Property Services about turnover cleaning. Reply with the property address and a good time to visit, and we'll send you a quote and get you on the schedule.
+
+Best,
+The Gulf Coast Property Services Team",rules
+INQ-015,email,2026-10-08T08:02:00,Beth,,beth.carver@example.com,,single_family,1,landscaping,low,Hello! I just bought a townhome I'm going to rent out. The yard is a mess. Could someone clean up the landscaping in a few months before I…,10,small,Inside Sales / Auto-reply,False,,"Hi Beth,
+
+Thanks for reaching out to Gulf Coast Property Services about landscaping. Reply with the property address and a good time to visit, and we'll send you a quote and get you on the schedule.
+
+Best,
+The Gulf Coast Property Services Team",rules

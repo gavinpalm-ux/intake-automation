@@ -1,0 +1,10 @@
+To: ops@example.com
+Assigned: Sales Rep Queue
+Priority: standard (40)
+
+Hi Greg,
+
+Thanks for reaching out to Gulf Coast Property Services about property inspections across your 18 units. A member of our team will reach out within one business day with pricing and available start dates.
+
+Best,
+The Gulf Coast Property Services Team

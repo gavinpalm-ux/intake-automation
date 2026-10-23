@@ -1,0 +1,127 @@
+[
+  {
+    "id": "INQ-001",
+    "channel": "email",
+    "received_at": "2026-10-05T08:14:00",
+    "from": "Dana Whitfield <dana.whitfield@example.com>",
+    "subject": "Turnover cleaning for our portfolio",
+    "body": "Hi there,\n\nMy name is Dana Whitfield and I'm with Harbor Point Property Management. We manage 64 units across three apartment complexes in Port Charlotte and our current turnover cleaning vendor just dropped us. We have 6 move-outs this month and need someone ASAP. Can you also handle make-ready repairs (drywall patches, minor plumbing)?\n\nYou can reach me at 941-555-0182.\n\nThanks,\nDana"
+  },
+  {
+    "id": "INQ-002",
+    "channel": "web_form",
+    "received_at": "2026-10-05T09:40:00",
+    "from": "mike.r@example.net",
+    "form_name": "Mike Russo",
+    "subject": "Website contact form",
+    "body": "I own a single family rental home in North Port. Tenant is moving out end of next month. Looking for a quote on move-out cleaning. No rush, just getting prices."
+  },
+  {
+    "id": "INQ-003",
+    "channel": "email",
+    "received_at": "2026-10-05T11:02:00",
+    "from": "board@example.org",
+    "subject": "Landscaping bid request",
+    "body": "Good morning,\n\nThe Sunset Palms HOA board is accepting bids for landscaping and irrigation maintenance of our common areas for next year. The community has 120 homes. Please send a proposal by Nov 15.\n\nRegards,\nPatricia Gomez\nBoard Secretary\n(239) 555-0147"
+  },
+  {
+    "id": "INQ-004",
+    "channel": "email",
+    "received_at": "2026-10-05T13:25:00",
+    "from": "tkhan@example.com",
+    "subject": "URGENT roaches",
+    "body": "we have a roach problem in two of our duplex units and tenants are threatening to withhold rent. need pest control this week. call me 941.555.0133\n\n- Tariq"
+  },
+  {
+    "id": "INQ-005",
+    "channel": "web_form",
+    "received_at": "2026-10-05T15:51:00",
+    "from": "jlee@example.com",
+    "form_name": "Jordan Lee",
+    "subject": "Website contact form",
+    "body": "Hello, I work for Coastal Ridge Investments. We're acquiring a 40-unit apartment building in December and want a full inspection plus ongoing maintenance and turnover cleaning once we close. Who should I talk to about a contract?"
+  },
+  {
+    "id": "INQ-006",
+    "channel": "email",
+    "received_at": "2026-10-06T07:30:00",
+    "from": "",
+    "subject": "question",
+    "body": "do u guys do lawns"
+  },
+  {
+    "id": "INQ-007",
+    "channel": "email",
+    "received_at": "2026-10-06T08:45:00",
+    "from": "Sam Patel <sam.patel@example.com>",
+    "subject": "Office building - HVAC and general maintenance",
+    "body": "Hi,\n\nThis is Sam Patel from Bayside Commercial Group. We have a two-story office building in Venice and the AC unit on the second floor has been failing. We'd also like a quote on a monthly maintenance plan. Please call 941-555-0119 when you can.\n\nBest,\nSam"
+  },
+  {
+    "id": "INQ-008",
+    "channel": "web_form",
+    "received_at": "2026-10-06T10:12:00",
+    "from": "rosa.m@example.com",
+    "form_name": "Rosa Martinez",
+    "subject": "Website contact form",
+    "body": "I have three rental homes and I'm getting tired of chasing handymen. Do you do maintenance and lawn care as a package? Budgeting for next year."
+  },
+  {
+    "id": "INQ-009",
+    "channel": "email",
+    "received_at": "2026-10-06T12:00:00",
+    "from": "ops@example.com",
+    "subject": "Move-in inspections",
+    "body": "Hello,\n\nWe manage 18 condos for out-of-state owners and need someone to do move-in and move-out condition reports with photos. Is that something you offer? What's the turnaround?\n\nThank you,\nGreg Holloway\nGulf Breeze Rentals"
+  },
+  {
+    "id": "INQ-010",
+    "channel": "email",
+    "received_at": "2026-10-06T14:33:00",
+    "from": "Lauren Price <lprice@example.com>",
+    "subject": "Leak!!",
+    "body": "Hi, I'm Lauren. Water is leaking from the ceiling in my rental condo, tenant just called me. I'm out of town. Can someone go out today? 239-555-0164"
+  },
+  {
+    "id": "INQ-011",
+    "channel": "web_form",
+    "received_at": "2026-10-07T09:05:00",
+    "from": "chris.b@example.com",
+    "form_name": "Chris Bennett",
+    "subject": "Website contact form",
+    "body": "Just curious what you charge. I manage a 12 unit apartment complex, might want cleaning between tenants down the road."
+  },
+  {
+    "id": "INQ-012",
+    "channel": "email",
+    "received_at": "2026-10-07T11:20:00",
+    "from": "facilities@example.com",
+    "subject": "Retail plaza grounds + pest",
+    "body": "Hello,\n\nI handle facilities for Lakewood Plaza Partners, a retail plaza with 9 storefronts. We need landscaping and quarterly pest control for the property. Current contracts end Dec 31.\n\nCheers,\nNina Okafor\n941-555-0175"
+  },
+  {
+    "id": "INQ-013",
+    "channel": "email",
+    "received_at": "2026-10-07T13:48:00",
+    "from": "",
+    "subject": "Re: services",
+    "body": "Following up on my voicemail. Please call me back about the apartments."
+  },
+  {
+    "id": "INQ-014",
+    "channel": "web_form",
+    "received_at": "2026-10-07T16:10:00",
+    "from": "ahughes@example.com",
+    "form_name": "Alex Hughes",
+    "subject": "Website contact form",
+    "body": "I represent Meadow Creek Holdings. We own 85 single-family rental homes in Sarasota and Charlotte counties and are reviewing maintenance vendors. Interested in turnover cleaning, maintenance work orders, and annual inspections. Phone: (941) 555-0108."
+  },
+  {
+    "id": "INQ-015",
+    "channel": "email",
+    "received_at": "2026-10-08T08:02:00",
+    "from": "Beth Carver <beth.carver@example.com>",
+    "subject": "Townhome yard",
+    "body": "Hello! I just bought a townhome I'm going to rent out. The yard is a mess. Could someone clean up the landscaping in a few months before I list it?\n\nThanks!\nBeth"
+  }
+]

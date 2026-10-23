@@ -1,0 +1,37 @@
+inquiry_id,channel,received_at,contact_name,company,email,phone,property_type,unit_count,services,urgency,summary,priority_score,priority_tier,assigned_to,needs_human_review,review_reasons,draft_reply,extracted_by
+INQ-001,email,2026-10-05T08:14:00,Dana Whitfield,Harbor Point Property Management,dana.whitfield@example.com,(941) 555-0182,multifamily,64,turnover_cleaning;maintenance,high,"Hi there, My name is Dana Whitfield and I'm with Harbor Point Property Management. We manage 64 units across three apartment complexes in P…",100,enterprise,Senior Account Manager,True,high_value_lead,"Hi Dana,
+
+Thanks for reaching out to Gulf Coast Property Services about turnover cleaning and maintenance across your 64 units. I see this is time-sensitive, so I've flagged it as a priority. Someone from our team will call you within two business hours to get this scheduled.
+
+Best,
+The Gulf Coast Property Services Team",rules
+INQ-014,web_form,2026-10-07T16:10:00,Alex Hughes,Meadow Creek Holdings,ahughes@example.com,(941) 555-0108,single_family,85,turnover_cleaning;maintenance;inspection,normal,I represent Meadow Creek Holdings. We own 85 single-family rental homes in Sarasota and Charlotte counties and are reviewing maintenance ve…,85,enterprise,Senior Account Manager,True,high_value_lead,"Hi Alex,
+
+Thanks for reaching out to Gulf Coast Property Services about turnover cleaning, maintenance and property inspections across your 85 units. One of our senior account managers will call you within one business day to set up a walkthrough and put together a portfolio proposal.
+
+Best,
+The Gulf Coast Property Services Team",rules
+INQ-005,web_form,2026-10-05T15:51:00,Jordan Lee,Coastal Ridge Investments,jlee@example.com,,multifamily,40,turnover_cleaning;maintenance;inspection,normal,"Hello, I work for Coastal Ridge Investments. We're acquiring a 40-unit apartment building in December and want a full inspection plus ongoi…",80,enterprise,Senior Account Manager,True,high_value_lead,"Hi Jordan,
+
+Thanks for reaching out to Gulf Coast Property Services about turnover cleaning, maintenance and property inspections across your 40 units. One of our senior account managers will call you within one business day to set up a walkthrough and put together a portfolio proposal.
+
+Best,
+The Gulf Coast Property Services Team",rules
+INQ-003,email,2026-10-05T11:02:00,Patricia Gomez,,board@example.org,(239) 555-0147,hoa,120,maintenance;landscaping,low,"Good morning, The Sunset Palms HOA board is accepting bids for landscaping and irrigation maintenance of our common areas for next year. Th…",70,enterprise,Senior Account Manager,True,high_value_lead,"Hi Patricia,
+
+Thanks for reaching out to Gulf Coast Property Services about maintenance and landscaping across your 120 units. One of our senior account managers will call you within one business day to set up a walkthrough and put together a portfolio proposal.
+
+Best,
+The Gulf Coast Property Services Team",rules
+INQ-013,email,2026-10-07T13:48:00,,,,,multifamily,,other,normal,Following up on my voicemail. Please call me back about the apartments.,25,small,Inside Sales / Auto-reply,True,no_contact_info;no_name;service_unclear,"Hi there,
+
+Thanks for reaching out to Gulf Coast Property Services about property services. Reply with the property address and a good time to visit, and we'll send you a quote and get you on the schedule.
+
+Best,
+The Gulf Coast Property Services Team",rules
+INQ-006,email,2026-10-06T07:30:00,,,,,unknown,,landscaping,normal,do u guys do lawns,15,small,Inside Sales / Auto-reply,True,no_contact_info;no_name;property_type_unclear,"Hi there,
+
+Thanks for reaching out to Gulf Coast Property Services about landscaping. Reply with the property address and a good time to visit, and we'll send you a quote and get you on the schedule.
+
+Best,
+The Gulf Coast Property Services Team",rules

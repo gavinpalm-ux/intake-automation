@@ -1,0 +1,17 @@
+[
+  {"id": "INQ-001", "contact_name": "Dana Whitfield", "email": "dana.whitfield@example.com", "phone": "(941) 555-0182", "property_type": "multifamily", "unit_count": 64, "services": ["turnover_cleaning", "maintenance"], "urgency": "high"},
+  {"id": "INQ-002", "contact_name": "Mike Russo", "email": "mike.r@example.net", "phone": null, "property_type": "single_family", "unit_count": 1, "services": ["turnover_cleaning"], "urgency": "low"},
+  {"id": "INQ-003", "contact_name": "Patricia Gomez", "email": "board@example.org", "phone": "(239) 555-0147", "property_type": "hoa", "unit_count": 120, "services": ["landscaping"], "urgency": "normal"},
+  {"id": "INQ-004", "contact_name": "Tariq", "email": "tkhan@example.com", "phone": "(941) 555-0133", "property_type": "multifamily", "unit_count": 2, "services": ["pest_control"], "urgency": "high"},
+  {"id": "INQ-005", "contact_name": "Jordan Lee", "email": "jlee@example.com", "phone": null, "property_type": "multifamily", "unit_count": 40, "services": ["inspection", "maintenance", "turnover_cleaning"], "urgency": "normal"},
+  {"id": "INQ-006", "contact_name": null, "email": null, "phone": null, "property_type": "unknown", "unit_count": null, "services": ["landscaping"], "urgency": "normal"},
+  {"id": "INQ-007", "contact_name": "Sam Patel", "email": "sam.patel@example.com", "phone": "(941) 555-0119", "property_type": "commercial", "unit_count": null, "services": ["maintenance"], "urgency": "high"},
+  {"id": "INQ-008", "contact_name": "Rosa Martinez", "email": "rosa.m@example.com", "phone": null, "property_type": "single_family", "unit_count": 3, "services": ["maintenance", "landscaping"], "urgency": "low"},
+  {"id": "INQ-009", "contact_name": "Greg Holloway", "email": "ops@example.com", "phone": null, "property_type": "single_family", "unit_count": 18, "services": ["inspection"], "urgency": "normal"},
+  {"id": "INQ-010", "contact_name": "Lauren", "email": "lprice@example.com", "phone": "(239) 555-0164", "property_type": "single_family", "unit_count": 1, "services": ["maintenance"], "urgency": "high"},
+  {"id": "INQ-011", "contact_name": "Chris Bennett", "email": "chris.b@example.com", "phone": null, "property_type": "multifamily", "unit_count": 12, "services": ["turnover_cleaning"], "urgency": "low"},
+  {"id": "INQ-012", "contact_name": "Nina Okafor", "email": "facilities@example.com", "phone": "(941) 555-0175", "property_type": "commercial", "unit_count": 9, "services": ["landscaping", "pest_control"], "urgency": "normal"},
+  {"id": "INQ-013", "contact_name": null, "email": null, "phone": null, "property_type": "multifamily", "unit_count": null, "services": ["other"], "urgency": "normal"},
+  {"id": "INQ-014", "contact_name": "Alex Hughes", "email": "ahughes@example.com", "phone": "(941) 555-0108", "property_type": "single_family", "unit_count": 85, "services": ["turnover_cleaning", "maintenance", "inspection"], "urgency": "normal"},
+  {"id": "INQ-015", "contact_name": "Beth", "email": "beth.carver@example.com", "phone": null, "property_type": "single_family", "unit_count": 1, "services": ["landscaping"], "urgency": "low"}
+]
